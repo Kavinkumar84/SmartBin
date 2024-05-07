@@ -26,7 +26,7 @@ This project implements a waste segregation system using Arduino and various sen
 
 ## Circuit Diagram
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](Demo/CircuitDiagram.png)
 
 
 ## Usage
