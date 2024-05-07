@@ -30,10 +30,6 @@ This project implements a waste segregation system using Arduino and various sen
 
 
 ## Usage
+Simply place the waste on the top of the trash can, the sensor detect whether the waste are degradable or not, and drop it in its specified storage container
 
-Provide instructions on how to use your project. Include examples, screenshots, or code snippets to demonstrate its usage.
-
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for code formatting, pull request submission, and any other relevant information.
 
