@@ -24,9 +24,10 @@ This project implements a waste segregation system using Arduino and various sen
    - If the soil is dry, the servo motor turns to a different angle to segregate waste as bio.
 4. Additionally, ultrasonic sensors measure the distance to detect the presence of objects in specific bins.
 
-## Installation
+## Circuit Diagram
 
-Provide instructions on how to install and set up your project. Include any prerequisites, dependencies, or setup steps necessary.
+![Screenshot 1](path/to/screenshot1.png)
+
 
 ## Usage
 
